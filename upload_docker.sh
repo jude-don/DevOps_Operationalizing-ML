@@ -5,12 +5,12 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=judedon/devops_operationalizing
+dockerpath=judedon/devopsoperationalizing
 
 # Step 2:  
 # Authenticate & tag
 docker login
-docker --tag devops_operationalizing $dockerpath:latest
+docker --tag devopsoperationalizing $dockerpath:latest
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
