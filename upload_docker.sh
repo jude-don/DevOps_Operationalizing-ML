@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=jude-don/devops_operationalizing
+dockerpath=judedon/devops_operationalizing
 
 # Step 2:  
 # Authenticate & tag
