@@ -26,19 +26,19 @@ The DevOps Operationalizing ML project demonstrates the abilities gained through
 
 ### Phase 2
 
-* Create environment by editing your 'Makefile' and running 'make setup'. This will create an environment called '.devopss'
-* Install all dependencis by running 'make install'
+* Create environment by editing your `Makefile` and running `make setup`. This will create an environment called `.devopss`
+* Install all dependencis by running `make install`
 
 
 ### Phase 3
 
-* Edit 'run_docker.sh' file and run the application on docker by caling 'bash run_docker.sh'
+* Edit `run_docker.sh` file and run the application on docker by caling `bash run_docker.sh`
 
 
 ### Phase 4
-* Edit 'upload_docker.sh' by using your dockerhub usernme as the tag
-* Run 'bash upload_docker.sh' to upload it to docker hub
+* Edit `upload_docker.sh` by using your dockerhub usernme as the tag
+* Run `bash upload_docker.sh` to upload it to docker hub
 
 
 ### Phase 5
-* Edit the 'run_kubernetes.sh' file and run the command 'bash run_kubernetes.sh' to deploy to kubernetes
+* Edit the `run_kubernetes.sh` file and run the command `bash run_kubernetes.sh` to deploy to kubernetes
